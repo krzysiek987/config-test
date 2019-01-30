@@ -1,4 +1,3 @@
-message: remote-global-value
 management:
   endpoints:
     web:
@@ -13,3 +12,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://discovery-service:8761/eureka/
+
